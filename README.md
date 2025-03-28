@@ -1,4 +1,4 @@
 # demo-app
 This is my first Git Repository.
 <br>
-Author - Premm Chand
+Author - Premm Chand(Self paced learning)
